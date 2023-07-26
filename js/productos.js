@@ -16,7 +16,7 @@ const productos = [
     {
         id:"3",
         nombre:"Rollos Primavera",
-        imagen: "./img",
+        imagen: "./img/img-rollos-primavera.avif",
         precio: 1100,
         descripcion:"Rollo elaborado de una pasta relleno de diferentes verduras picadas al estilo juliana.",
     },
