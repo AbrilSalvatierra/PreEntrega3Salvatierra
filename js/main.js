@@ -104,7 +104,5 @@ const actualizarTotal = (contenedor) => {
 	contenedor.textContent = `Total: $${total}`;
 };
 
-/* --------------------------------- LÓGICA --------------------------------- */
-
 mostrarProductos(productos);
 mostrarCarrito();
